@@ -10,4 +10,8 @@ Practice using jQuery "for" loops, for Epicodus JavaScript Basics course
 
 _This website will use HTML, CSS and JavaScript_
 
+## Link to GitHub Repository
+
+https://github.com/theAppanaut/99-Bottles-Loop.git
+
 Copyright (c) 2016 **_Scott Holland, Jr._**
